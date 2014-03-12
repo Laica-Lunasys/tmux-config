@@ -18,7 +18,7 @@ git clone https://github.com/Laica-Lunasys/tmux-config.git ~/lunasys-tmux-config
 
 ```bash
 ln -s ~/lunasys-tmux-config/.tmux.conf ~/.tmux.conf
-
+```
 
 使い方
 ------
